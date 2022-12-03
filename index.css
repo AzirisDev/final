@@ -212,6 +212,9 @@ nav ul li a:hover:after {
     background:
         #41729F;
     color: #fff;
+    border-width: 0.3em;
+    border-style: solid;
+    border-color: #fff;
 }
 
 .skill-text {
@@ -242,5 +245,3 @@ cite {
 }
 
 @import url(https://fonts.googleapis.com/css?family=Lora);
-
-
