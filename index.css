@@ -188,6 +188,23 @@ nav ul li a:hover:after {
         #bfdefc;
 }
 
+.skill:hover {
+    box-shadow: 5px 3px 30px #41729F;
+}
+
+.experience {
+    width: 49%;
+    padding: 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    background:
+        #bfdefc;
+}
+
+.experience:hover {
+    box-shadow: 5px 3px 30px #41729F;
+}
+
 .skill-title {
     align-items: center;
     align-content: center;
@@ -225,3 +242,5 @@ cite {
 }
 
 @import url(https://fonts.googleapis.com/css?family=Lora);
+
+
